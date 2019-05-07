@@ -3,5 +3,7 @@
 modif readme (nouveau dépôt
 
 modif readme sur m2i-jour2
-modif readme sur branche B01
+<modif readme sur branche B01
 modif readme sur Master
+modif readme sur B01
+commit sur B01
